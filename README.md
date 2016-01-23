@@ -48,9 +48,9 @@ The future 取り上げない
 授業の参加度・発言: 50%、レポート試験: 50%
 
 ## テキスト
-- Messerschmitt, D. G., & Szyperski, C. _Software ecosystem: Understanding an indispensable technology and industry_. MIT Press, 2003年, ISBN: 0262134322, 
-<!-- 発注 -->
-http://www.amazon.co.jp/dp/0262134322/
+- Messerschmitt, D. G., & Szyperski, C. _Software ecosystem: Understanding an indispensable technology and industry_. MIT Press, 2003年.
+  - ISBN: 0262134322, 
+  - [Amazon.co.jp 商品ページ](http://www.amazon.co.jp/dp/0262134322/)
 
 ## 参考文献
 講義中に適宜紹介する。
